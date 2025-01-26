@@ -11,10 +11,10 @@ A one-page document outlining the project goals, stakeholder requirements, key q
     
 ### 2. Tableau Dashboard
 An interactive dashboard tailored to meet the needs of the Head of Strategy, Director of Revenue, and VP of Operations providing insights into:  
-    User growth trends (Premium and Ad-supported users)  
-    Revenue breakdown by streams (Premium and Ad-based)  
-    Average Revenue Per User (ARPU)  
-    Operational cost analysis  
+	User growth trends (Premium and Ad-supported users)  
+	Revenue breakdown by streams (Premium and Ad-based)  
+	Average Revenue Per User (ARPU)  
+	Operational cost analysis  
     https://public.tableau.com/views/spotify_17378419677660/SpotifyDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
     
 ### 3. Closing Report
@@ -35,9 +35,10 @@ A video presentation for stakeholders highlighting:
 **GitHub:** For project version control and collaboration.  
 
 ## Author  
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+This work was done by Anuj, data analyst, BI analyst, database designer and scientist (biologist). Feel free to connect via  
+LinkedIn: https://www.linkedin.com/in/anujanujbioanalyst  
+Email: anuj.kaushik.btjj@gmail.com
 
 ## Acknowledgments  
+This project was done as part of Masterschool Data Analytics program to demonstrate data-driven decision-making for Spotify's leadership team. This project was for educational purposes and not intended for production use. The author is not responsible for any issues arising from the use of this work.
 
-This project is part of Masterschool Data Analytics program to demonstrate data-driven decision-making for Spotify's leadership team.
